@@ -1,7 +1,14 @@
-### Hi there 👋
+### Hello!
+
+[![Jake's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakedalus&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakedalus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Jakedalus/jakedalus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jakedalus)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jakedalus.jakedalus)
