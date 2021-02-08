@@ -1,10 +1,10 @@
-### Hello!
-
 <img src="https://media-exp1.licdn.com/dms/image/C4D16AQGPgzHMqxkTiQ/profile-displaybackgroundimage-shrink_350_1400/0/1602279712809?e=1618444800&v=beta&t=4bcbyrGXzLrVawfIRRrkcpr9NvzcrEAiyFShieQ1DsM" alt="banner image" />
+
+### Hello!
 
 [![Jake's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakedalus&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakedalus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakedalus&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Jakedalus/jakedalus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
