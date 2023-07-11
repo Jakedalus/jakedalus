@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQGPgzHMqxkTiQ/profile-displaybackgroundimage-shrink_350_1400/0/1602279712809?e=1624492800&v=beta&t=jBzU7U8O-NM-xcyOfBexPYqXWzTcomQ5kBv9-WnMY1A" alt="banner image" />
+\
 
 ### Hello!
 
@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 -->
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jakedalus.jakedalus)
+
